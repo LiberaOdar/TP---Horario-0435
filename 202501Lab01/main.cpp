@@ -3,6 +3,6 @@
 
 int main() {
     emitirreporte();
-
+    leerdatos();
     return 0;
 }

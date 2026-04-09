@@ -1,3 +1,3 @@
-D:/PUCP/TP/2026-1/202501Lab01/cmake-build-debug/CMakeFiles/202501Lab01.dir
-D:/PUCP/TP/2026-1/202501Lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/PUCP/TP/2026-1/202501Lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Datos/PUCP/TP/2026-1/Ejercicios/202501Lab01/cmake-build-debug/CMakeFiles/202501Lab01.dir
+C:/Datos/PUCP/TP/2026-1/Ejercicios/202501Lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Datos/PUCP/TP/2026-1/Ejercicios/202501Lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
