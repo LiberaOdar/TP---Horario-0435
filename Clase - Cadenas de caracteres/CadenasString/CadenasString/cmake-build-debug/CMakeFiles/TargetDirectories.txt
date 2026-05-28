@@ -1,3 +1,0 @@
-D:/PUCP/TP/2026-1/Ejercicios/CadenasString/cmake-build-debug/CMakeFiles/CadenasString.dir
-D:/PUCP/TP/2026-1/Ejercicios/CadenasString/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/PUCP/TP/2026-1/Ejercicios/CadenasString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
